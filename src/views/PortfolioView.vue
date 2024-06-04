@@ -10,7 +10,16 @@ export default {
           imageUrl: 'tokoberkah',
           status: 'Aplikasi Kasir - Toko Berkah, a cashier management system specifically designed to facilitate the management of sales transactions in retail stores. This application offers various features aimed at increasing store operational efficiency and making it easier for users to carry out sales, inventory and reporting processes.',
           tech: 'Laravel 10, Bootstrap',
-          github: 'null',
+          github: 'https://github.com/AhmadMnrl/web-portofolio',
+          demo: 'null'
+        },
+        {
+          id: 2,
+          name: 'Web E-Commerce iProject',
+          imageUrl: 'iphone',
+          status: 'Web E-Commerce iProject is a website designed to facilitate an iPhone store in selling its products online. This project is developed using Laravel 10 and Bootstrap. It was created as a final project for the second semester.',
+          tech: 'Laravel 10, Bootstrap',
+          github: 'https://github.com/AhmadMnrl/iProject',
           demo: 'null'
         },
       ]
